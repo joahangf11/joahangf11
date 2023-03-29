@@ -8,3 +8,5 @@
 - 📫 A01748222@tec.mx
 - ⚡ Fun fact: Aunque no se que hago siempre doy lo mejor de mí 
 
+Anclados puedes encontrar tabajos en los que me encuentro trabajando actualmente :)
+
