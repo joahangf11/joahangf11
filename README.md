@@ -17,7 +17,8 @@ Anclados puedes encontrar tabajos en los que me encuentro trabajando actualmente
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joahangf11&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=joahan123)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=joahangf11&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joahangf11&icon=5&color=0)](https://visitcount.itsvg.in)
